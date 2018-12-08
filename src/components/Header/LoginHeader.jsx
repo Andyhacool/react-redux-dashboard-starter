@@ -83,7 +83,7 @@ class Header extends React.Component {
           <div className={classes.flex}>
             { !tempPasswordHidden && <SnackbarContent
                 message={
-                  'Id: test@email.com | Password: test'
+                  'Id: test@mail.com | Password: test'
                 }
                 close
                 color="primary"
