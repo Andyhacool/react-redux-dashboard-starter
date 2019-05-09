@@ -13,9 +13,11 @@ npm start
 npm run deploy
 
 ## Built With
-Website template - Material Dashboard https://github.com/creativetimofficial/material-dashboard-react#licensing 
-react components library - Material UI https://material-ui.com/ 
-Ducks - Redux file structure
+- Website template - Material Dashboard https://github.com/creativetimofficial/material-dashboard-react#licensing 
+
+- react components library - Material UI https://material-ui.com/ 
+
+- Ducks - Redux file structure
 
 ## Authors
 Andy HA
