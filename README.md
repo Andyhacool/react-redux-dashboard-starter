@@ -4,21 +4,21 @@ This is starter kit that get you up ruinning simple react dashboard pages with r
 
 Demo: https://Andyhacool.github.io/react-redux-dashboard-starter
 
-##Getting Started
+## Getting Started
 npm install
 npm start
 
-##Deployment
+## Deployment
 
 npm run deploy
 
-##Built With
+## Built With
 Website template - Material Dashboard https://github.com/creativetimofficial/material-dashboard-react#licensing 
 react components library - Material UI https://material-ui.com/ 
 Ducks - Redux file structure
 
-##Authors
+## Authors
 Andy HA
 
-##License
+## License
 This project is licensed under the MIT License 
